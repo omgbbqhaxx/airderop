@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/airderop/static/css/main.c60ff68b.css",
+    "main.js": "/airderop/static/js/main.a495a558.js",
+    "static/js/787.c1112931.chunk.js": "/airderop/static/js/787.c1112931.chunk.js",
+    "index.html": "/airderop/index.html",
+    "main.c60ff68b.css.map": "/airderop/static/css/main.c60ff68b.css.map",
+    "main.a495a558.js.map": "/airderop/static/js/main.a495a558.js.map",
+    "787.c1112931.chunk.js.map": "/airderop/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c60ff68b.css",
+    "static/js/main.a495a558.js"
+  ]
+}
